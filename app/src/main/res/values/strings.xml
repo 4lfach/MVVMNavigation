@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMNavigation</string>
+    <string name="hello_world">Hello World</string>
+    <string name="field_not_empty">Field must not be empty</string>
+</resources>
